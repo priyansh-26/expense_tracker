@@ -1,0 +1,2 @@
+D:/Flutter Apps/expense_tracker/android/app/.cxx/Debug/1b2b242h/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Flutter Apps/expense_tracker/android/app/.cxx/Debug/1b2b242h/arm64-v8a/CMakeFiles/rebuild_cache.dir
