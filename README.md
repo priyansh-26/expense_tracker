@@ -44,3 +44,8 @@ flutter run
 
 ![Starting Home Page](https://drive.google.com/uc?export=view&id=1AyUw4sF0sCJIZ78wI5TKgw196GgMTDkO)
 
+
+![Home Page](https://drive.google.com/uc?export=view&id=1NdaL4Twt5kZixnoK47ibSbWYxQ_FTV7e)
+
+![Add Transaction](https://drive.google.com/uc?export=view&id=1gPgO765KZYXjRkGhBE6hDMzNgvzfSusY)
+
