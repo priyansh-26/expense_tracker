@@ -468,12 +468,6 @@ class _HomePageState extends State<HomePage> {
     );
   }
 
-//
-//
-//
-// Widget
-//
-//
 
   Widget cardIncome(String value) {
     return Row(

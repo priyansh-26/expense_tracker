@@ -1,16 +1,46 @@
-# expense_tracker
+# 💸 Personal Expense Tracker
 
-A new Flutter project.
+A modern, Flutter-based personal finance app to track your daily expenses, visualize your spending, and manage your budget — all with a beautiful and intuitive UI.
+## 🚀 Features
 
-## Getting Started
+- 📊 Dashboard with total balance, income, and expenses
+- 🧾 Transaction list with categories, notes, and dates
+- ➕ Add new expenses with category, amount, and notes
+- 📅 Filter transactions by date and type
+- 📈 Visual charts powered by `fl_chart`
+- 💾 Local data storage using `Hive`
+- 🎨 Clean and modern UI with custom widgets
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter**
+- **Dart**
+- `Hive` for local storage
+- `fl_chart` for data visualization
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 How to Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ✅ Requirements
+- Flutter SDK 3.7.0 or higher
+- Dart SDK 3.7.0+
+- Android Studio / VS Code
+- A connected Android device or emulator
+
+### 🚧 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/priyansh-26/expense_tracker.git
+cd expense_tracker
+
+# Install Flutter dependencies
+flutter pub get
+
+# Run the app on connected device/emulator
+flutter run
+```
+
+## Screenshots
+
+![App Screenshot](https://drive.google.com/file/d/1gPgO765KZYXjRkGhBE6hDMzNgvzfSusY/view?usp=sharing)
+

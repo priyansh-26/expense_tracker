@@ -12,7 +12,7 @@ void main() async {
   await Hive.initFlutter();
   await Hive.openBox('money');
   preferences = await SharedPreferences.getInstance();
-  runApp(DevicePreview(builder: (context) => MyApp()));
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {

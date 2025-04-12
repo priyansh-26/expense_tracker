@@ -38,13 +38,5 @@ class DbHelper {
     return preferences.getString('name');
   }
 
-  setLocalAuth(bool val) async {
-    preferences = await SharedPreferences.getInstance();
-    return preferences.setBool('auth', val);
-  }
-
-  Future<bool> getLocalAuth() async {
-    preferences = await SharedPreferences.getInstance();
-    return preferences.getBool('auth') ?? false;
-  }
+ 
 }
