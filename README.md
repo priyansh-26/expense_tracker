@@ -11,6 +11,23 @@ A modern, Flutter-based personal finance app to track your daily expenses, visua
 - 💾 Local data storage using `Hive`
 - 🎨 Clean and modern UI with custom widgets
 
+## 📸 Screenshots
+
+### Starting Home Screen  
+<img src="https://drive.google.com/uc?export=view&id=1AyUw4sF0sCJIZ78wI5TKgw196GgMTDkO" alt="Home Screen" width="400"/>
+
+### Home Screen  
+<img src="https://drive.google.com/uc?export=view&id=1NdaL4Twt5kZixnoK47ibSbWYxQ_FTV7e" alt="Home Screen" width="400"/>
+
+### Add Expense  
+<img src="https://drive.google.com/uc?export=view&id=1gPgO765KZYXjRkGhBE6hDMzNgvzfSusY" alt="Add Expense" width="400"/>
+
+### Charts  
+<img src="https://drive.google.com/uc?export=view&id=1z_b62RyEjWKfETBfXCwNUvEEj1Iqryuy" alt="Add Expense" width="400"/>
+
+### Recent Transaction  
+<img src="https://drive.google.com/uc?export=view&id=1Z-CGIS_8c6mtowwGjYNpLiRRPmMZz9iZ" alt="Add Expense" width="400"/>
+
 ## 🛠 Tech Stack
 
 - **Flutter**
@@ -39,13 +56,3 @@ flutter pub get
 # Run the app on connected device/emulator
 flutter run
 ```
-
-## Screenshots
-
-![Starting Home Page](https://drive.google.com/uc?export=view&id=1AyUw4sF0sCJIZ78wI5TKgw196GgMTDkO)
-
-
-![Home Page](https://drive.google.com/uc?export=view&id=1NdaL4Twt5kZixnoK47ibSbWYxQ_FTV7e)
-
-![Add Transaction](https://drive.google.com/uc?export=view&id=1gPgO765KZYXjRkGhBE6hDMzNgvzfSusY)
-
