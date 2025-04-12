@@ -42,5 +42,5 @@ flutter run
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1gPgO765KZYXjRkGhBE6hDMzNgvzfSusY/view?usp=sharing)
+![Starting Home Page](https://drive.google.com/uc?export=view&id=1NdaL4Twt5kZixnoK47ibSbWYxQ)
 
