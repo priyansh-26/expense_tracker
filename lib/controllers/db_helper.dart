@@ -28,15 +28,7 @@ class DbHelper {
     await box.clear();
   }
 
-  addName(String name) async {
-    preferences = await SharedPreferences.getInstance();
-    preferences.setString('name', name);
-  }
 
-  getName() async {
-    preferences = await SharedPreferences.getInstance();
-    return preferences.getString('name');
-  }
 
  
 }
